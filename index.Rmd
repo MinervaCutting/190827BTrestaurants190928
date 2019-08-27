@@ -1,0 +1,267 @@
+---
+title: "MADRID GROUP"
+author: "BUSINESS TRAVEL"
+date: '28&30 September, 2019'
+output:
+ 
+  html_document:
+    css: FORMATO.css
+    highlight: textmate
+    theme: cosmo
+    toc: yes
+    toc_float: yes
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
+```
+
+
+```{r libraries}
+library(readxl)
+library(dplyr)
+library(knitr)
+library(timevis)
+
+```
+
+<br>
+<br>
+<br>
+
+## 📍 Map
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1FVfAQOfiSzfr3g3ijd_Di5xwdRjHeopy&hl=es" width="100%" height="550"></iframe>
+
+Walking distance restaurants: 
+
+  * Sinsombrero
+  * Sagardi Castellana
+  * Gran Café Gijón
+  * La Mucca de Serrano
+  * El Pimiento Verde (Castelló)
+  
+Non walking distance:
+
+  * Serafina Cocina
+<br>
+<br>
+
+## 🍴Suggested Restaurants {.tabset .tabset-fade .tabset-pills}
+
+### El Pimiento Verde - Castelló 
+
+<iframe src="EL PIMIENTO VERDE/ElPimientoVerde.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+**Basic Menu**
+
+    Artichoke Flowers (2ud)
+    Homemade creamy croquettes (2ud)
+    Warm angula, clam and prawn salad
+    Navarra chistorra with creamy potatoes
+    
+    Seafood rice with clams, mussels and fresh fish
+    
+    Assortment of artisanal dessert and house coffee
+    
+    Red (Rioja Crianza) or white wine (Rueda Verdejo) (1 bottle each 3 pax) and water.
+  
+
+    *Rates per person: 50€ VAT inc
+
+<br>
+
+### Serafina Cocina Bar
+
+<iframe src="SERAFINA/Serafina.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
+
+**Basic Menu**
+
+    Starters to share
+    Veal carpaccio with sheep cheese
+    Creamy salad with octopus, curry mayonnaise and black olives
+    Iberan ham creamy hommemade croquettes
+    
+    Main course to choose
+    Grilled veal "entraña" with "chimichurri" sauce  and grilled potato
+    or
+    Stewed Iberan pork jaw on creamy apple 
+    or
+    Marinade hake with sweet potato pure
+    
+    Cheese cake with red-fruit
+    
+    Coffee
+    
+    Red (Rioja Crianza) or white wine (Rueda Verdejo) (1 bottle each 3 pax) and water.
+  
+
+    *Rates per person: 41,50€ VAT inc
+    
+
+<br>
+
+
+### Cafe Gijon
+
+<iframe src="CAFE GIJON/CafeGijon.html" frameborder="0" width="100%" height="900" scrolling="no"></iframe>
+
+
+**Basic Menu**
+
+    Aperitive
+    Oxtail croquettes
+
+    Starters to choose (in advance)
+    Albahaca salmorejo with tuna sashimi
+    or
+    Clams spanish style
+    or
+    Duck lasagna (with orange)
+    or
+    Tagliatelle salad with allioli, peppers and tuna.
+
+    Main course to choose (in advance)
+    Seafood-stuffed hake 
+    or
+    Iberica prey strips (Iberian pork)
+    or
+    Cordon-blue escalope
+
+    Dessert
+    White chocolate Pannacotta 
+
+    Drinks
+    Red or white wine (1 bottle each 3 pax) and water.
+
+    *Rates per person: 40€ VAT inc
+    + 3€ if you want to add coffee
+
+<br>
+
+### La Mucca de Serrano
+
+<iframe src="LAMUCCA DE SERRANO/LaMuccadeSerrano.html" frameborder="0" width="100%" height="700" scrolling="no"></iframe>
+
+
+**Basic Menu**
+
+    To Share menu 
+
+    - New Pisco
+    - Spanish potatoes
+    - Homemade croquettes
+    - Nachos Teki
+    - Green salad
+    - Boletus pizza
+    - Curry chicken
+    - Fish and chips
+
+    Desserts
+
+    - Assortment of desserts
+
+    Drinks
+
+    - Red or white wine (1 bottle each 3 pax), water and coffee.
+    They can change wine per beer or soft drinks ( 1 bittle of wine = 2l beer or 4 soft drinks)
+
+    *Rates per person: 40€ VAT inc
+
+<br>
+
+
+### Sinsombrero 
+
+<iframe src="SINSOMBRERO/Sinsombrero.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+
+**Basic Menu**
+
+    Starters to shre
+    Russian salad with tuna
+    Iberic ham croquettes
+    Special pizza of picanha, red pesto, arugula and stracciatela.
+
+    Main course to choose
+    Roasted salmon with miso
+    or
+    Ox burguer with cheese and glazed shallots
+
+    Dessert
+    Chocolate cke with maracuya soup, crunchy honey and cookie ice cream.
+
+    *Rates per person: 37€ VAT inc
+     + 3€ if you want to add coffee
+
+    Drink package option 1 - 12€
+
+    - 3 drinks (glass of wine, beer, water or soft drink)
+
+    Drink package option2 - 20€
+
+    - 2h open bar (wine, beer, juices, water and soft drinks)
+
+
+
+### Sagardi Castellana
+
+<iframe src="SAGARDI CASTELLANA/SagardiCastellana.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+
+
+**Basic Menu**
+
+    8 pintxos + 2 drinks (2 glasses of wine or 2 beers or 2 soft drinks) + 2 sweets (per person)
+
+    *Pintxos to be chosen in advance*
+
+    *Rates per person: 34€ VAT inc
+    + 3€ if you want to add coffee
+
+
+<br>
+
+
+
+<br>
+
+
+## 🚌 Bus Transfers & Assistance
+
+  * 50 seater bus transfer from Madrid's Airport to NH Colon (or viceversa) (from 8.00h to 20.00h): 190€ VAT inc
+  * 50 seater bus transfer from Madrid's Airport to NH Colon (or viceversa) (from 20.00h to 8.00h): 220€ VAT inc
+  * 50 seater bus at disposal for dinner: 380€ VAT inc
+  
+  * English speaking assistant (2h) - 120€ VAT inc
+  
+
+
+*****
+
+##  ☑ Terms & Conditions
+
+  * Rates valid for 2019.
+  
+  * Net rates for Business travel
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+  
+*****
+
+
+
+
+
