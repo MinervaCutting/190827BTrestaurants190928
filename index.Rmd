@@ -38,34 +38,22 @@ library(timevis)
 <br>
 <br>
 
-## 📍 Map
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1FVfAQOfiSzfr3g3ijd_Di5xwdRjHeopy&hl=es" width="100%" height="550"></iframe>
-
-Walking distance restaurants: 
-
-  * Sinsombrero
-  * Sagardi Castellana
-  * Gran Café Gijón
-  * La Mucca de Serrano
-  * El Pimiento Verde (Castelló)
   
-Non walking distance:
+# 🍴Chosen Restaurants 
 
-  * Serafina Cocina
-<br>
-<br>
+## 28th September -  El Pimiento Verde - Castelló  {.tabset .tabset-fade}
 
-## 🍴Suggested Restaurants {.tabset .tabset-fade .tabset-pills}
-
-### El Pimiento Verde - Castelló 
+Booked 28th September, 2019
+32 pax
 
 <iframe src="EL PIMIENTO VERDE/ElPimientoVerde.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
 
-**Basic Menu**
+### MENU 1
 
+    ALL TO SHARE MENU
     Artichoke Flowers (2ud)
     Homemade creamy croquettes (2ud)
+    (Iberian ham with parmesan + baby squid with ink)
     Warm angula, clam and prawn salad
     Navarra chistorra with creamy potatoes
     
@@ -73,121 +61,75 @@ Non walking distance:
     
     Assortment of artisanal dessert and house coffee
     
-    Red (Rioja Crianza) or white wine (Rueda Verdejo) (1 bottle each 3 pax) and water.
+    Red (Rioja Crianza) or white wine (Rueda Verdejo) (1 bottle each 3 pax) 
+    and water.
   
 
     *Rates per person: 50€ VAT inc
+    
 
 <br>
 
-### Serafina Cocina Bar
+### MENU 2
 
-<iframe src="SERAFINA/Serafina.html" frameborder="0" width="100%" height="1100" scrolling="no"></iframe>
-
-**Basic Menu**
-
-    Starters to share
-    Veal carpaccio with sheep cheese
-    Creamy salad with octopus, curry mayonnaise and black olives
-    Iberan ham creamy hommemade croquettes
+    ALL TO SHARE MENU
+    Artichoke Flowers (2ud)
+    Homemade creamy croquettes (2ud)
+    (Iberian ham with parmesan + baby squid with ink)
+    Homemade salad with piquillo peppers and tuna belly
+    Navarra chistorra with creamy potatoes
     
-    Main course to choose
-    Grilled veal "entraña" with "chimichurri" sauce  and grilled potato
-    or
-    Stewed Iberan pork jaw on creamy apple 
-    or
-    Marinade hake with sweet potato pure
+    Cantabrian hake medallions with Bilbao-style babysquid and angula sauce
     
-    Cheese cake with red-fruit
+    Sliced Iberian pork "pluma" with cabrales cheese saucem fried potatoes and tomato and pepper tartare.
     
-    Coffee
+    Assortment of artisanal dessert and house coffee
     
-    Red (Rioja Crianza) or white wine (Rueda Verdejo) (1 bottle each 3 pax) and water.
+    Red (Rioja Crianza) white wine (Rueda Verdejo) (1 bottle each 3 pax) 
+    and water.
+  
+    *Rates per person: 56,50€ VAT inc
   
 
-    *Rates per person: 41,50€ VAT inc
+<br>
+
+### MENU 3
+
+    ALL TO SHARE MENU
+    Artichoke Flowers (2ud)
+    Homemade creamy croquettes (2ud)
+    (Iberian ham with parmesan + baby squid with ink)
+    Warm Cantabrian Salad (Mix of tender greens with sauteed angulas, clams and prawns)
+    Fresh baby squid with Onions(Toasted on tasty piperrada)
     
+    Cantabrian monkfish with Bilbao-style sauté (fillet of monkfish tripe with sautéed potato slices and broccolini)
+    
+    Grilled avileña-black iberian aged ribeye beef chop (Fillet cooked to desired doneness. With side of piquillo pepper and potatoes)
+    
+    Assortment of artisanal dessert and house coffee
+    
+    Red (Rioja Crianza) white wine (Rueda Verdejo) (1 bottle each 3 pax) 
+    and water.
+  
+
+    *Rates per person: 62,50€ VAT inc
+    *You will need to add 3€ if you want to include coffee.
 
 <br>
 
 
-### Cafe Gijon
 
-<iframe src="CAFE GIJON/CafeGijon.html" frameborder="0" width="100%" height="900" scrolling="no"></iframe>
+## 30th September - Sinsombrero {.tabset .tabset-fade}
 
-
-**Basic Menu**
-
-    Aperitive
-    Oxtail croquettes
-
-    Starters to choose (in advance)
-    Albahaca salmorejo with tuna sashimi
-    or
-    Clams spanish style
-    or
-    Duck lasagna (with orange)
-    or
-    Tagliatelle salad with allioli, peppers and tuna.
-
-    Main course to choose (in advance)
-    Seafood-stuffed hake 
-    or
-    Iberica prey strips (Iberian pork)
-    or
-    Cordon-blue escalope
-
-    Dessert
-    White chocolate Pannacotta 
-
-    Drinks
-    Red or white wine (1 bottle each 3 pax) and water.
-
-    *Rates per person: 40€ VAT inc
-    + 3€ if you want to add coffee
-
-<br>
-
-### La Mucca de Serrano
-
-<iframe src="LAMUCCA DE SERRANO/LaMuccadeSerrano.html" frameborder="0" width="100%" height="700" scrolling="no"></iframe>
-
-
-**Basic Menu**
-
-    To Share menu 
-
-    - New Pisco
-    - Spanish potatoes
-    - Homemade croquettes
-    - Nachos Teki
-    - Green salad
-    - Boletus pizza
-    - Curry chicken
-    - Fish and chips
-
-    Desserts
-
-    - Assortment of desserts
-
-    Drinks
-
-    - Red or white wine (1 bottle each 3 pax), water and coffee.
-    They can change wine per beer or soft drinks ( 1 bittle of wine = 2l beer or 4 soft drinks)
-
-    *Rates per person: 40€ VAT inc
-
-<br>
-
-
-### Sinsombrero 
+Booked 30th September, 2019
+32pax
 
 <iframe src="SINSOMBRERO/Sinsombrero.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
 
 
-**Basic Menu**
+### MENU 1
 
-    Starters to shre
+    Starters to share
     Russian salad with tuna
     Iberic ham croquettes
     Special pizza of picanha, red pesto, arugula and stracciatela.
@@ -213,26 +155,34 @@ Non walking distance:
 
 
 
-### Sagardi Castellana
+### MENU 2
 
-<iframe src="SAGARDI CASTELLANA/SagardiCastellana.html" frameborder="0" width="100%" height="1000" scrolling="no"></iframe>
+    Starters to share
+    Russian salad with tuna
+    Iberic ham croquettes
+    Cuttlefish friters with lime mayonnaise
 
+    Main course to choose
+    Hake with green sauce of basil, shrimps and potato
+    or
+    Beef sirloin with garnish
 
-**Basic Menu**
+    Dessert
+    Chocolate cke with maracuya soup, crunchy honey and cookie ice cream.
+    or
+    Cheese ckae with red fruit ice-cream
 
-    8 pintxos + 2 drinks (2 glasses of wine or 2 beers or 2 soft drinks) + 2 sweets (per person)
+    *Rates per person: 44€ VAT inc
+     + 3€ if you want to add coffee
 
-    *Pintxos to be chosen in advance*
+    Drink package option 1 - 12€
 
-    *Rates per person: 34€ VAT inc
-    + 3€ if you want to add coffee
+    - 3 drinks (glass of wine, beer, water or soft drink)
 
+    Drink package option2 - 20€
 
-<br>
+    - 2h open bar (wine, beer, juices, water and soft drinks)
 
-
-
-<br>
 
 
 ## 🚌 Bus Transfers & Assistance
@@ -257,7 +207,6 @@ Non walking distance:
   
   * VAT included. 
   
-  * No reservation has been done. Availability upon request.
   
 *****
 
